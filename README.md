@@ -12,7 +12,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🎓 Final Year B.Tech student at **MNNIT Allahabad**
+- 🎓 Recent B.Tech graduate at **MNNIT Allahabad**
 - 🛠️ Currently building full-stack applications using **React, Node.js, Express & PostgreSQL**
 - 🧠 Solved **700+ DSA problems** on LeetCode, GFG & other platforms
 - 🔭 Exploring **AI, Data Structures, DevOps**, and **System Design**
